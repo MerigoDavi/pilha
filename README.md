@@ -2,8 +2,9 @@
 
 ## Visão Geral
 
-Uma calculadora que processa expressões em notação polonesa reversa (RPN) usando C++.<br>
-(exemplo de uso: `3 4 +` resulta em `7`.)
+Uma calculadora que processa expressões em notação polonesa reversa (RPN) usando C++. <br><br>
+Para rodar o projeto em uma máquina linux basta clonar o repositório, entrar nele, e rodar `./pilha`
+Exemplo de uso: `3 4 +` resulta em `7`. 
 
 ## Estrutura de Dados 
 
